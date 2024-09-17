@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/deep-learning-project/experiment-tracking/mlruns/972169796782826651/d921be6746714c75bb395f498f3ce858/artifacts
+end_time: 1726594328633
+entry_point_name: ''
+experiment_id: '972169796782826651'
+lifecycle_stage: active
+run_id: d921be6746714c75bb395f498f3ce858
+run_name: nosy-newt-258
+run_uuid: d921be6746714c75bb395f498f3ce858
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726593962112
+status: 4
+tags: []
+user_id: codespace

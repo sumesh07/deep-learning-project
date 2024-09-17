@@ -1,0 +1,11 @@
+tensorflow  # Specify TensorFlow version
+# MLflow version
+ # For calculating precision, recall, F1 score
+numpy      # For numerical operations
+mlflow
+jupyter
+scikit-learn
+pandas
+seaborn
+hyperopt
+xgboost

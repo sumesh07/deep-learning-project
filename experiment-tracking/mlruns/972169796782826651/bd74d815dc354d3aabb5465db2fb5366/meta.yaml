@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/deep-learning-project/experiment-tracking/mlruns/972169796782826651/bd74d815dc354d3aabb5465db2fb5366/artifacts
+end_time: 1726594884879
+entry_point_name: ''
+experiment_id: '972169796782826651'
+lifecycle_stage: active
+run_id: bd74d815dc354d3aabb5465db2fb5366
+run_name: incongruous-pig-235
+run_uuid: bd74d815dc354d3aabb5465db2fb5366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726594519155
+status: 4
+tags: []
+user_id: codespace
